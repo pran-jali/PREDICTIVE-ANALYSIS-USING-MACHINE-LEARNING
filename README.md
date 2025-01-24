@@ -1,0 +1,2 @@
+# PREDICTIVE-ANALYSIS-USING-MACHINE-LEARNING
+PERFORM ANALYSIS ON A LARGE DATASET USING TOOLS LIKE PYSPARK OR DASK TO DEMONSTRATE SCALABILITY. Name=Pranjali Pradeep Shinde Company=Codetech IT Solutions Intern ID=CT08HVO Domain=Data Analyst Duration=30th December 2024 to 30th January 2025 Mentor= Neela Santosh Task 1
